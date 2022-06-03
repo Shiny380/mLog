@@ -1,0 +1,5 @@
+.ccls-cache
+.idea
+.vscode
+compile_commands.json
+build/

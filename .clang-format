@@ -1,0 +1,15 @@
+{
+    BasedOnStyle: Google,
+    UseTab: Never,
+    IndentWidth: 4,
+    TabWidth: 4,
+    EmptyLineBeforeAccessModifier: Always,
+    IncludeBlocks: Preserve,
+    IndentPPDirectives: BeforeHash,
+    AlignConsecutiveDeclarations: Consecutive,
+    AlignConsecutiveMacros: Consecutive,
+    AlignEscapedNewlines: Left,
+    PointerAlignment: Left,
+    AllowShortFunctionsOnASingleLine: None,
+    AllowShortBlocksOnASingleLine: Never,
+}
